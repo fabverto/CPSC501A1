@@ -1,0 +1,190 @@
+$ java Driver 12345678
+========== Round 1==========
+Track condition: normal
+  A  B  C  D  E  F  G  H  I  J  K  L  M  N  O  P  Q  R  S  T  U  V  W  X  Y
+---------------------------------------------------------------------------
+|VP|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+---------------------------------------------------------------------------
+=== SUV driving options ===
+(a)ll wheel drive mode
+(d)rive normally
+(q)uit simulation
+Enter selection: d
+Move: 3
+SUV: 54
+=== Sports car driving options ===
+(c)ool off
+(d)rive normally
+(q)uit simulation
+Enter selection: d
+Move: 4
+Sports: 52
+========== Round 2==========
+Track condition: normal
+  A  B  C  D  E  F  G  H  I  J  K  L  M  N  O  P  Q  R  S  T  U  V  W  X  Y
+---------------------------------------------------------------------------
+|  |  |  |V | P|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+---------------------------------------------------------------------------
+=== SUV driving options ===
+(a)ll wheel drive mode
+(d)rive normally
+(q)uit simulation
+Enter selection: d
+Move: 3
+SUV: 48
+=== Sports car driving options ===
+(c)ool off
+(d)rive normally
+(q)uit simulation
+Enter selection: d
+Move: 4
+Sports: 44
+========== Round 3==========
+Track condition: normal
+  A  B  C  D  E  F  G  H  I  J  K  L  M  N  O  P  Q  R  S  T  U  V  W  X  Y
+---------------------------------------------------------------------------
+|  |  |  |  |  |  |V |  | P|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+---------------------------------------------------------------------------
+=== SUV driving options ===
+(a)ll wheel drive mode
+(d)rive normally
+(q)uit simulation
+Enter selection: d
+Move: 3
+SUV: 42
+=== Sports car driving options ===
+(c)ool off
+(d)rive normally
+(q)uit simulation
+Enter selection: d
+Move: 4
+Sports: 36
+========== Round 4==========
+Track condition: heatwave
+  A  B  C  D  E  F  G  H  I  J  K  L  M  N  O  P  Q  R  S  T  U  V  W  X  Y
+---------------------------------------------------------------------------
+|  |  |  |  |  |  |  |  |  |V |  |  | P|  |  |  |  |  |  |  |  |  |  |  |  |
+---------------------------------------------------------------------------
+=== SUV driving options ===
+(a)ll wheel drive mode
+(d)rive normally
+(q)uit simulation
+Enter selection: d
+Move: 3
+SUV: 36
+=== Sports car driving options ===
+WARNING: car is overheated.
+(c)ool off
+(d)rive normally
+(q)uit simulation
+Enter selection: d
+Move: 1
+Sports: 32
+========== Round 5==========
+Track condition: blizzard
+  A  B  C  D  E  F  G  H  I  J  K  L  M  N  O  P  Q  R  S  T  U  V  W  X  Y
+---------------------------------------------------------------------------
+|  |  |  |  |  |  |  |  |  |  |  |  |V | P|  |  |  |  |  |  |  |  |  |  |  |
+---------------------------------------------------------------------------
+=== SUV driving options ===
+(a)ll wheel drive mode
+(d)rive normally
+(q)uit simulation
+Enter selection: a
+Move: 2
+SUV: 28
+=== Sports car driving options ===
+WARNING: car is overheated.
+(c)ool off
+(d)rive normally
+(q)uit simulation
+Enter selection: d
+Move: 1
+Sports: 28
+========== Round 6==========
+Track condition: normal
+  A  B  C  D  E  F  G  H  I  J  K  L  M  N  O  P  Q  R  S  T  U  V  W  X  Y
+---------------------------------------------------------------------------
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |VP|  |  |  |  |  |  |  |  |  |  |
+---------------------------------------------------------------------------
+=== SUV driving options ===
+(a)ll wheel drive mode
+(d)rive normally
+(q)uit simulation
+Enter selection: d
+Move: 3
+SUV: 22
+=== Sports car driving options ===
+WARNING: car is overheated.
+(c)ool off
+(d)rive normally
+(q)uit simulation
+Enter selection: c
+Move: 0
+Sports: 28
+========== Round 7==========
+Track condition: normal
+  A  B  C  D  E  F  G  H  I  J  K  L  M  N  O  P  Q  R  S  T  U  V  W  X  Y
+---------------------------------------------------------------------------
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  | P|  |  |V |  |  |  |  |  |  |  |
+---------------------------------------------------------------------------
+=== SUV driving options ===
+(a)ll wheel drive mode
+(d)rive normally
+(q)uit simulation
+Enter selection: d
+Move: 3
+SUV: 16
+=== Sports car driving options ===
+(c)ool off
+(d)rive normally
+(q)uit simulation
+Enter selection: d
+Move: 4
+Sports: 20
+========== Round 8==========
+Track condition: normal
+  A  B  C  D  E  F  G  H  I  J  K  L  M  N  O  P  Q  R  S  T  U  V  W  X  Y
+---------------------------------------------------------------------------
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | P|  |V |  |  |  |  |
+---------------------------------------------------------------------------
+=== SUV driving options ===
+(a)ll wheel drive mode
+(d)rive normally
+(q)uit simulation
+Enter selection: d
+Move: 3
+SUV: 10
+=== Sports car driving options ===
+(c)ool off
+(d)rive normally
+(q)uit simulation
+Enter selection: d
+Move: 4
+Sports: 12
+========== Round 9==========
+Track condition: normal
+  A  B  C  D  E  F  G  H  I  J  K  L  M  N  O  P  Q  R  S  T  U  V  W  X  Y
+---------------------------------------------------------------------------
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | P|V |  |
+---------------------------------------------------------------------------
+=== SUV driving options ===
+(a)ll wheel drive mode
+(d)rive normally
+(q)uit simulation
+Enter selection: d
+Move: 3
+SUV: 4
+=== Sports car driving options ===
+(c)ool off
+(d)rive normally
+(q)uit simulation
+Enter selection: d
+Move: 4
+Sports: 4
+========== Game Over ==========
+Track condition: normal
+  A  B  C  D  E  F  G  H  I  J  K  L  M  N  O  P  Q  R  S  T  U  V  W  X  Y
+---------------------------------------------------------------------------
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |VP|
+---------------------------------------------------------------------------

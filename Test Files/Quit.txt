@@ -1,0 +1,18 @@
+$ java Driver 12345678
+========== Round 1==========
+Track condition: normal
+  A  B  C  D  E  F  G  H  I  J  K  L  M  N  O  P  Q  R  S  T  U  V  W  X  Y
+---------------------------------------------------------------------------
+|VP|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+---------------------------------------------------------------------------
+=== SUV driving options ===
+(a)ll wheel drive mode
+(d)rive normally
+(q)uit simulation
+Enter selection: q
+========== Game Over ==========
+Track condition: normal
+  A  B  C  D  E  F  G  H  I  J  K  L  M  N  O  P  Q  R  S  T  U  V  W  X  Y
+---------------------------------------------------------------------------
+|VP|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+---------------------------------------------------------------------------
